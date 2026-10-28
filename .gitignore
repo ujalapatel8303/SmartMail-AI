@@ -1,0 +1,17 @@
+.env
+credentials.json
+token.json
+__pycache__/
+
+.env
+.env.*
+!.env.example
+
+credentials.json
+token.json
+client_secret*.json
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
